@@ -9,8 +9,8 @@ from time import sleep
 PROMISED_DOWN = 1000
 PROMISED_UP = 200
 CHROME_DRIVER_PATH = "Users/moes/Development/chromedriver"
-TWITTER_EMAIL = 'theogmoe@cyberdude.com'
-TWITTER_PASSWORD = 'ThankyouGod100%'
+TWITTER_EMAIL = ''
+TWITTER_PASSWORD = ''
 URL = "https://www.speedtest.net/"
 TWITTER = 'https://x.com/'
 
